@@ -1,0 +1,44 @@
+body{
+    background-image:url("ac_dc.jpg");
+    background-size:cover;
+}
+.header{
+    color:yellow;
+    width:100%;
+    margin-top:0;
+}
+kbd{
+    font-size:large;
+}
+.volume{
+    float:left;
+}
+.volume_img{
+    width:400px;
+    border-radius: 20px;
+}
+.btn-volume{
+    font-size:25px;
+    margin:15px;
+}
+.speed{
+    float:right;
+}
+.speed_img{
+    width:400px;
+    border-radius: 20px;
+}
+.btn-speed{
+    font-size:25px;
+    margin:15px;
+}
+.btn-success{
+    margin-top:15px;
+    font-size:140%;
+}
+canvas{
+    background:rgb(236, 255, 62);
+    border:3px solid rgb(255, 145, 0);
+    border-radius: 30px;
+    margin-top:100px;
+}
